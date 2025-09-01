@@ -128,7 +128,7 @@ export default function ContactPage() {
                     <Mail className="h-6 w-6 text-primary mt-1" />
                     <div>
                       <h4 className="font-semibold mb-1">Email</h4>
-                      <p className="text-muted-foreground">contact@otpconnect.com</p>
+                      <p className="text-muted-foreground">contact@MyOtpService.com</p>
                       <p className="text-sm text-muted-foreground">For general inquiries</p>
                     </div>
                   </div>

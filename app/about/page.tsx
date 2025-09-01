@@ -19,7 +19,7 @@ export default function AboutPage() {
               5+ Years of Excellence
             </Badge>
             <h1 className="text-4xl md:text-6xl font-bold text-balance mb-6">
-              About <span className="text-primary">OTPConnect</span>
+              About <span className="text-primary">MyOtpService</span>
             </h1>
             <p className="text-xl text-muted-foreground text-balance mb-8 max-w-3xl mx-auto">
               We are a technology-driven company with 5+ years of expertise in delivering secure and scalable
@@ -65,7 +65,7 @@ export default function AboutPage() {
               <div>
                 <h3 className="text-2xl font-bold mb-6">Founded on Innovation</h3>
                 <p className="text-muted-foreground mb-6">
-                  OTPConnect was founded with a simple vision: to make authentication faster, more reliable, and more
+                  MyOtpService was founded with a simple vision: to make authentication faster, more reliable, and more
                   cost-effective than traditional SMS. We recognized early on that WhatsApp's global reach and superior
                   delivery rates could revolutionize how businesses verify their users.
                 </p>
@@ -172,7 +172,7 @@ export default function AboutPage() {
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="text-3xl md:text-4xl font-bold mb-6">Ready to Get Started?</h2>
             <p className="text-lg text-muted-foreground mb-8">
-              Join hundreds of businesses already using OTPConnect for secure, reliable authentication
+              Join hundreds of businesses already using MyOtpService for secure, reliable authentication
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" className="text-lg px-8">

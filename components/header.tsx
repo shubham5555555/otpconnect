@@ -37,7 +37,7 @@ export default function Header() {
                   transition={{ duration: 2, repeat: Number.POSITIVE_INFINITY }}
                 />
               </motion.div>
-              <span className="text-xl font-bold text-foreground">OTPConnect</span>
+              <span className="text-xl font-bold text-foreground">MyOtpService</span>
             </Link>
 
             {/* Desktop Navigation */}
